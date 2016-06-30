@@ -35,7 +35,8 @@ public abstract class Document {
 		Pattern tokSplitter = Pattern.compile(pattern);
 		Matcher m = tokSplitter.matcher(text);
 		
-		while (m.find()) {
+		while (m.find()) 
+		{
 			tokens.add(m.group());
 		}
 		
