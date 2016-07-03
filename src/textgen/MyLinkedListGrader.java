@@ -25,7 +25,8 @@ public class MyLinkedListGrader {
                 return ret;
 	}
 	
-	public String printListBackwards(MyLinkedList<Integer> lst) {
+	public String printListBackwards(MyLinkedList<Integer> lst)
+	{
 		LLNode<Integer> curr;
                 String ret = "";
 		if (lst.tail.data == null)
