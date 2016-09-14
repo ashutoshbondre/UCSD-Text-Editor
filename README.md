@@ -13,7 +13,7 @@
 / Date: 10/29/2015
 /-------------------------------------------------------------------------
 
----------------------------------------------------------[ DESCRIPTION ]--
+---------------------------------------------------------[ DESCRIPTION ]
 
 The files provided are skeleton code, as well as grading previews and 
 testing files to be used in completing the course programming 
