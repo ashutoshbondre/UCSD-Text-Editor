@@ -55,7 +55,7 @@ spelling.WordPath.java
 spelling.NearbyWords.java
 spelling.WPTree.java
 
----------------------------------------------------------------[ SETUP ]-- 
+---------------------------------------------------------------[ SETUP ]
 
 Importing Project into eclipse:
 	1. Create a new Java Project in your workspace
