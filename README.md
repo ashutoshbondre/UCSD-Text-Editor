@@ -20,7 +20,7 @@ testing files to be used in completing the course programming
 assignments. Additionally, you are provided a runnable JavaFX program 
 which will help to test and demonstrate your implementations.
 
--------------------------------------------------------[ FILES BY WEEK ]--
+-------------------------------------------------------[ FILES BY WEEK ]
 
 Below are the files introduced in each week and used in each week
 of the course. See file for description...
