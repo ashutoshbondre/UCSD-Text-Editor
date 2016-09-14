@@ -66,7 +66,7 @@ Importing Project into eclipse:
 Feel free to use another IDE or manually compile and run your programs.
 If you need help, google is your friend.
 
------------------------------------------------------[ ACKNOWLEDGEMENTS]--
+-----------------------------------------------------[ ACKNOWLEDGEMENTS]
 
 A big thank you to Tomas Mikula for creating RichTextFX 
 which was used as the text area in the GUI application.
