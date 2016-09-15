@@ -5,7 +5,8 @@ package textgen;
  *  @author UC San Diego Intermediate Programming MOOC team
  *  
  */
-public interface MarkovTextGenerator {
+public interface MarkovTextGenerator 
+{
 	
 	/** Train the generator by adding the sourceText */
 	public void train(String sourceText);
