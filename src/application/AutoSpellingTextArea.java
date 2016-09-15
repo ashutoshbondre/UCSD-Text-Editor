@@ -25,7 +25,8 @@ import org.fxmisc.richtext.StyleSpans;
 import org.fxmisc.richtext.StyleSpansBuilder;
 import org.fxmisc.richtext.StyledTextArea;
 
-public class AutoSpellingTextArea extends StyledTextArea<Boolean> {
+public class AutoSpellingTextArea extends StyledTextArea<Boolean> 
+{
 
 	private static final int NUM_COMPLETIONS = 6;
 	private static final int NUM_SUGGESTIONS = 6;
