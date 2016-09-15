@@ -72,7 +72,8 @@ public class TextProController {
      * Initialize and add text area to application
      */
 	@FXML
-	private void initialize() {
+	private void initialize() 
+	{
 		// make field displaying flesch score read-only
 		fleschField.setEditable(false);
 		
