@@ -130,7 +130,6 @@ public class AutoSpellingTextArea extends StyledTextArea<Boolean>
 		});
 
 		// AUTOCOMPLETE
-
 		// initialize list and options menu for autoComplete
 		options = new ArrayList<String>();
 		entriesPopup = new ContextMenu();
